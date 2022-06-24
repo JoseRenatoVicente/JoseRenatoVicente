@@ -56,6 +56,3 @@
 ###
 
 <img align="right" src="https://profile-counter.glitch.me/JoseRenatoVicente/count.svg?"  />
-
-###
-Profile Readme Generator
